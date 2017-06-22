@@ -5,6 +5,7 @@
 ## Development Team
 
   * [Justin Shaw](https://github.com/jshaw22)
+  * [Saher Wasim](https://github.com/swasim)
   * [Ahad Wasim](https://github.com/Ahad-Wasim)
   * [Gloria Ma](https://github.com/gloriama) (Scrum Master)
   * [Wayne Chaw](https://github.com/waynechaw) (Product Owner)
